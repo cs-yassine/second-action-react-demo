@@ -3,6 +3,7 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent.jsx';
+// Commentaire temporaire pour tester le comportement du workflow
 
 describe('MainContent', () => {
   it('should render a button', () => {
